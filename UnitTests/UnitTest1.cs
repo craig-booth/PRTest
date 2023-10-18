@@ -15,7 +15,7 @@ namespace UnitTests
             Assert.Equal(3, result);
         }
 
-    /*    [Fact]
+        [Fact]
         public void FailingTest()
         {
             var calc = new Calculator();
@@ -23,6 +23,6 @@ namespace UnitTests
             var result = calc.Add(5, 5);
 
             Assert.Equal(11, result);
-        } */
+        } 
     }
 }
