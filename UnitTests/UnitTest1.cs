@@ -20,7 +20,7 @@ namespace UnitTests
         {
             var calc = new Calculator();
 
-            var result = calc.Add(5, 10);
+            var result = calc.Add(5, 11);
 
             Assert.Equal(11, result);
         } 
