@@ -15,14 +15,14 @@ namespace UnitTests
             Assert.Equal(3, result);
         }
 
-    /*    [Fact]
+        [Fact]
         public void FailingTest()
         {
             var calc = new Calculator();
 
-            var result = calc.Add(5, 5);
+            var result = calc.Add(5, 11);
 
             Assert.Equal(11, result);
-        } */
+        } 
     }
 }
